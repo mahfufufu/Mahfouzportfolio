@@ -1,9 +1,9 @@
-<h1 align="center">Helloooo, my name's Mahfouz Afada</h1>
-<h3 align="center">Multi-media Artist and Animator extraordinare, developing programmer</h3>
+<h1 align="center">Helloooo! My name's Mahfouz Afada!</h1>
+<h3 align="center">Multi-media artist and animator extraordinare – budding writer and developing programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfufufu&label=Profile%20views&color=0e75b6&style=flat" alt="mahfufufu" /> </p>
 
-- 🌱 I’m currently learning **Python, Github**
+- 🌱 I’m currently learning **Python, Github, Html**
 
 - 📝 I regularly post my artwork on [https://www.instagram.com/mahfufufu/](https://www.instagram.com/mahfufufu/)
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahfufufu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahfufufu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahfouz afada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahfouz afada" height="30" width="40" /></a>
 <a href="https://instagram.com/mahfufufu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahfufufu" height="30" width="40" /></a>
 </p>
 
